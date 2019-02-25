@@ -1,0 +1,2839 @@
+{
+	"ADANA": {
+		"ADANA": {
+			"KOD": 9146
+		},
+		"ALADAĞ": {
+			"KOD": 9147
+		},
+		"CEYHAN": {
+			"KOD": 9148
+		},
+		"ÇUKUROVA": {
+			"KOD": 17876
+		},
+		"FEKE": {
+			"KOD": 9149
+		},
+		"İMAMOĞLU": {
+			"KOD": 9150
+		},
+		"KARAISALI": {
+			"KOD": 9151
+		},
+		"KARATAŞ": {
+			"KOD": 9152
+		},
+		"KOZAN": {
+			"KOD": 9153
+		},
+		"POZANTI": {
+			"KOD": 9154
+		},
+		"SAİMBEYLİ": {
+			"KOD": 9155
+		},
+		"TUFANBEYLİ": {
+			"KOD": 9156
+		},
+		"YUMURTALIK": {
+			"KOD": 9157
+		}
+	},
+	"ADIYAMAN": {
+
+		"ADIYAMAN": {
+			"KOD": 9158
+		},
+		"BESNİ": {
+			"KOD": 9159
+		},
+		"ÇELİKHAN": {
+			"KOD": 9160
+		},
+		"GERGER": {
+			"KOD": 9161
+		},
+		"GÖLBAŞI": {
+			"KOD": 9162
+		},
+		"KAHTA": {
+			"KOD": 9163
+		},
+		"SAMSAT": {
+			"KOD": 9164
+		},
+		"SİNCİK": {
+			"KOD": 9165
+		},
+		"TUT": {
+			"KOD": 9166
+		}
+	},
+	"AFYONKARAHİSAR": {
+
+		"AFYONKARAHİSAR": {
+			"KOD": 9167
+		},
+		"BAŞMAKÇI": {
+			"KOD": 9168
+		},
+		"BAYAT": {
+			"KOD": 9169
+		},
+		"BOLVADİN": {
+			"KOD": 9170
+		},
+		"ÇAY": {
+			"KOD": 9171
+		},
+		"ÇOBANLAR": {
+			"KOD": 9172
+		},
+		"DAZKIRI": {
+			"KOD": 9173
+		},
+		"DİNAR": {
+			"KOD": 9174
+		},
+		"EMİRDAĞ": {
+			"KOD": 9175
+		},
+		"EVCİLER": {
+			"KOD": 9176
+		},
+		"HOCALAR": {
+			"KOD": 9177
+		},
+		"İHSANİYE": {
+			"KOD": 9178
+		},
+		"İSCEHİSAR": {
+			"KOD": 9179
+		},
+		"KIZILÖREN": {
+			"KOD": 9180
+		},
+		"SANDIKLI": {
+			"KOD": 9181
+		},
+		"SİNANPAŞA": {
+			"KOD": 9182
+		},
+		"SUHUT": {
+			"KOD": 9183
+		},
+		"SULTANDAĞI": {
+			"KOD": 9184
+		}
+	},
+	"AĞRI": {
+
+		"AĞRI": {
+			"KOD": 9185
+		},
+		"DİYADİN": {
+			"KOD": 9186
+		},
+		"DOĞUBEYAZIT": {
+			"KOD": 9187
+		},
+		"ELEŞKİRT": {
+			"KOD": 9188
+		},
+		"PATNOS": {
+			"KOD": 9189
+		},
+		"TAŞLIÇAY": {
+			"KOD": 9190
+		},
+		"TUTAK": {
+			"KOD": 9191
+		}
+	},
+	"AKSARAY": {
+
+		"AĞAÇÖREN": {
+			"KOD": 9192
+		},
+		"AKSARAY": {
+			"KOD": 9193
+		},
+		"ESKİL": {
+			"KOD": 9194
+		},
+		"GÜLAĞAÇ": {
+			"KOD": 9195
+		},
+		"GÜZELYURT": {
+			"KOD": 9196
+		},
+		"ORTAKÖY": {
+			"KOD": 17877
+		},
+		"SARIYAHŞİ": {
+			"KOD": 9197
+		}
+	},
+	"AMASYA": {
+
+		"AMASYA": {
+			"KOD": 9198
+		},
+		"GÖYNÜCEK": {
+			"KOD": 9199
+		},
+		"GÜMÜŞHACIKÖY": {
+			"KOD": 9200
+		},
+		"HAMAMÖZÜ": {
+			"KOD": 9201
+		},
+		"MERZİFON": {
+			"KOD": 9202
+		},
+		"SULUOVA": {
+			"KOD": 9203
+		},
+		"TAŞOVA": {
+			"KOD": 9204
+		}
+	},
+	"ANKARA": {
+
+		"AKYURT": {
+			"KOD": 9205
+		},
+		"ANKARA": {
+			"KOD": 9206
+		},
+		"AYAŞ": {
+			"KOD": 9207
+		},
+		"BALA": {
+			"KOD": 9208
+		},
+		"BEYPAZARI": {
+			"KOD": 9209
+		},
+		"ÇAMLIDERE": {
+			"KOD": 9210
+		},
+		"CUBUK": {
+			"KOD": 9211
+		},
+		"ELMADAĞ": {
+			"KOD": 9212
+		},
+		"EVREN": {
+			"KOD": 9213
+		},
+		"GÜDÜL": {
+			"KOD": 9214
+		},
+		"HAYMANA": {
+			"KOD": 9215
+		},
+		"KAHRAMANKAZAN": {
+			"KOD": 9217
+		},
+		"KALECİK": {
+			"KOD": 9216
+		},
+		"KIZILCAHAMAM": {
+			"KOD": 9218
+		},
+		"NALLIHAN": {
+			"KOD": 9219
+		},
+		"POLATLI": {
+			"KOD": 9220
+		},
+		"ŞEREFLİKOÇHİSAR": {
+			"KOD": 9221
+		}
+	},
+	"ANTALYA": {
+
+		"AKSEKİ": {
+			"KOD": 9222
+		},
+		"AKSU": {
+			"KOD": 9223
+		},
+		"ALANYA": {
+			"KOD": 9224
+		},
+		"ANTALYA": {
+			"KOD": 9225
+		},
+		"DEMRE": {
+			"KOD": 9226
+		},
+		"ELMALI": {
+			"KOD": 9227
+		},
+		"FİNİKE": {
+			"KOD": 9228
+		},
+		"GAZİPAŞA": {
+			"KOD": 9229
+		},
+		"GÜNDOĞMUŞ": {
+			"KOD": 9230
+		},
+		"İBRADI": {
+			"KOD": 9231
+		},
+		"KAŞ": {
+			"KOD": 9232
+		},
+		"KEMER": {
+			"KOD": 9233
+		},
+		"KORKUTELİ": {
+			"KOD": 9234
+		},
+		"KUMLUCA": {
+			"KOD": 9235
+		},
+		"MANAVGAT": {
+			"KOD": 9236
+		},
+		"SERİK": {
+			"KOD": 9237
+		}
+	},
+	"ARDAHAN": {
+
+		"ARDAHAN": {
+			"KOD": 9238
+		},
+		"ÇILDIR": {
+			"KOD": 9239
+		},
+		"DAMAL": {
+			"KOD": 9240
+		},
+		"GÖLE": {
+			"KOD": 9241
+		},
+		"HANAK": {
+			"KOD": 9242
+		},
+		"POSOF": {
+			"KOD": 9243
+		}
+	},
+	"ARTVİN": {
+
+		"ARDANUÇ": {
+			"KOD": 9244
+		},
+		"ARHAVİ": {
+			"KOD": 9245
+		},
+		"ARTVİN": {
+			"KOD": 9246
+		},
+		"BORÇKA": {
+			"KOD": 9247
+		},
+		"HOPA": {
+			"KOD": 9248
+		},
+		"MURGUL": {
+			"KOD": 9249
+		},
+		"ŞAVŞAT": {
+			"KOD": 9250
+		},
+		"YUSUFELİ": {
+			"KOD": 9251
+		}
+	},
+	"AYDIN": {
+
+		"AYDIN": {
+			"KOD": 9252
+		},
+		"BOZDOĞAN": {
+			"KOD": 9253
+		},
+		"BUHARKENT": {
+			"KOD": 9254
+		},
+		"ÇİNE": {
+			"KOD": 9255
+		},
+		"DİDİM": {
+			"KOD": 9256
+		},
+		"GERMENCİK": {
+			"KOD": 9257
+		},
+		"İNCİRLİOVA": {
+			"KOD": 9258
+		},
+		"KARACASU": {
+			"KOD": 9259
+		},
+		"KARPUZLU": {
+			"KOD": 9260
+		},
+		"KOÇARLI": {
+			"KOD": 9261
+		},
+		"KÖŞK": {
+			"KOD": 9262
+		},
+		"KUŞADASI": {
+			"KOD": 9263
+		},
+		"KUYUCAK": {
+			"KOD": 9264
+		},
+		"NAZİLLİ": {
+			"KOD": 9265
+		},
+		"SÖKE": {
+			"KOD": 9266
+		},
+		"SULTANHİSAR": {
+			"KOD": 9267
+		},
+		"YENİPAZAR (A)": {
+			"KOD": 9268
+		}
+	},
+	"BALIKESİR": {
+
+		"AYVALIK": {
+			"KOD": 9269
+		},
+		"BALIKESİR": {
+			"KOD": 9270
+		},
+		"BALYA": {
+			"KOD": 9271
+		},
+		"BANDIRMA": {
+			"KOD": 17917
+		},
+		"BİGADİÇ": {
+			"KOD": 9272
+		},
+		"BURHANİYE": {
+			"KOD": 9273
+		},
+		"DURSUNBEY": {
+			"KOD": 9274
+		},
+		"EDREMİT": {
+			"KOD": 9275
+		},
+		"ERDEK": {
+			"KOD": 17881
+		},
+		"GÖMEÇ": {
+			"KOD": 9276
+		},
+		"GÖNEN": {
+			"KOD": 9277
+		},
+		"HAVRAN": {
+			"KOD": 9278
+		},
+		"İVRİNDİ": {
+			"KOD": 9279
+		},
+		"KEPSUT": {
+			"KOD": 9280
+		},
+		"MANYAS": {
+			"KOD": 17918
+		},
+		"MARMARA": {
+			"KOD": 9281
+		},
+		"SAVAŞTEPE": {
+			"KOD": 9282
+		},
+		"SINDIRGI": {
+			"KOD": 9283
+		},
+		"SUSURLUK": {
+			"KOD": 9284
+		}
+	},
+	"BARTIN": {
+
+		"BARTIN": {
+			"KOD": 9285
+		},
+		"KURUCAŞİLE": {
+			"KOD": 9286
+		},
+		"ULUS": {
+			"KOD": 9287
+		}
+	},
+	"BATMAN": {
+
+		"BATMAN": {
+			"KOD": 9288
+		},
+		"BEŞİRİ": {
+			"KOD": 9289
+		},
+		"GERCÜŞ": {
+			"KOD": 9290
+		},
+		"HASANKEYF": {
+			"KOD": 9291
+		},
+		"KOZLUK": {
+			"KOD": 9292
+		},
+		"SASON": {
+			"KOD": 9293
+		}
+	},
+	"BAYBURT": {
+
+		"AYDINTEPE": {
+			"KOD": 9294
+		},
+		"BAYBURT": {
+			"KOD": 9295
+		},
+		"DEMİRÖZÜ": {
+			"KOD": 9296
+		}
+	},
+	"BİLECİK": {
+
+		"BİLECİK": {
+			"KOD": 9297
+		},
+		"BOZÜYÜK": {
+			"KOD": 9298
+		},
+		"GÖLPAZARI": {
+			"KOD": 9299
+		},
+		"İNHİSAR": {
+			"KOD": 9300
+		},
+		"OSMANELİ": {
+			"KOD": 17895
+		},
+		"PAZARYERİ": {
+			"KOD": 17896
+		},
+		"SÖĞÜT": {
+			"KOD": 9301
+		},
+		"YENİPAZAR": {
+			"KOD": 9302
+		}
+	},
+	"BİNGÖL": {
+
+		"ADAKLI": {
+			"KOD": 17889
+		},
+		"BİNGÖL": {
+			"KOD": 9303
+		},
+		"KARLIOVA": {
+			"KOD": 9304
+		},
+		"KİGI": {
+			"KOD": 9305
+		},
+		"SOLHAN": {
+			"KOD": 9306
+		},
+		"YAYLADERE": {
+			"KOD": 9307
+		},
+		"YEDİSU": {
+			"KOD": 9308
+		}
+	},
+	"BİTLİS": {
+
+		"ADİLCEVAZ": {
+			"KOD": 9309
+		},
+		"AHLAT": {
+			"KOD": 9310
+		},
+		"BİTLİS": {
+			"KOD": 9311
+		},
+		"GÜROYMAK": {
+			"KOD": 17887
+		},
+		"HİZAN": {
+			"KOD": 9312
+		},
+		"MUTKİ": {
+			"KOD": 9313
+		},
+		"TATVAN": {
+			"KOD": 9314
+		}
+	},
+	"BOLU": {
+
+		"BOLU": {
+			"KOD": 9315
+		},
+		"DÖRTDİVAN": {
+			"KOD": 9316
+		},
+		"GEREDE": {
+			"KOD": 9317
+		},
+		"GÖYNÜK": {
+			"KOD": 9318
+		},
+		"KIBRISCIK": {
+			"KOD": 9319
+		},
+		"MENGEN": {
+			"KOD": 9320
+		},
+		"MUDURNU": {
+			"KOD": 9321
+		},
+		"SEBEN": {
+			"KOD": 9322
+		},
+		"YENİÇAĞA": {
+			"KOD": 9323
+		}
+	},
+	"BURDUR": {
+
+		"AĞLASUN": {
+			"KOD": 9324
+		},
+		"ALTINYAYLA": {
+			"KOD": 9325
+		},
+		"BUCAK": {
+			"KOD": 9326
+		},
+		"BURDUR": {
+			"KOD": 9327
+		},
+		"ÇAVDIR": {
+			"KOD": 9328
+		},
+		"ÇELTİKCİ": {
+			"KOD": 9329
+		},
+		"GÖLHİSAR": {
+			"KOD": 9330
+		},
+		"KARAMANLI": {
+			"KOD": 9331
+		},
+		"KEMER (B)": {
+			"KOD": 9332
+		},
+		"TEFENNİ": {
+			"KOD": 9333
+		},
+		"YEŞİLOVA": {
+			"KOD": 9334
+		}
+	},
+	"BURSA": {
+
+		"BURSA": {
+			"KOD": 9335
+		},
+		"BÜYÜK ORHAN": {
+			"KOD": 9336
+		},
+		"GEMLİK": {
+			"KOD": 9337
+		},
+		"HARMANCIK": {
+			"KOD": 9338
+		},
+		"İNEGÖL": {
+			"KOD": 9339
+		},
+		"İZNİK": {
+			"KOD": 9340
+		},
+		"KARACABEY": {
+			"KOD": 9341
+		},
+		"KELES": {
+			"KOD": 9342
+		},
+		"KESTEL": {
+			"KOD": 17893
+		},
+		"MUDANYA": {
+			"KOD": 9343
+		},
+		"MUSTAFA KEMALPAŞA": {
+			"KOD": 9344
+		},
+		"ORHANELİ": {
+			"KOD": 17894
+		},
+		"ORHANGAZİ": {
+			"KOD": 9345
+		},
+		"YENİŞEHİR": {
+			"KOD": 9346
+		}
+	},
+	"ÇANAKKALE": {
+
+		"AYVACIK": {
+			"KOD": 9347
+		},
+		"BAYRAMİÇ": {
+			"KOD": 9348
+		},
+		"BİGA": {
+			"KOD": 9349
+		},
+		"BOZCAADA": {
+			"KOD": 9350
+		},
+		"ÇAN": {
+			"KOD": 9351
+		},
+		"ÇANAKKALE": {
+			"KOD": 9352
+		},
+		"EZİNE": {
+			"KOD": 17882
+		},
+		"GELİBOLU": {
+			"KOD": 9353
+		},
+		"GÖKÇEADA": {
+			"KOD": 9354
+		},
+		"LAPSEKİ": {
+			"KOD": 9355
+		},
+		"YENİCE": {
+			"KOD": 9356
+		}
+	},
+	"ÇANKIRI": {
+
+		"ATKARACALAR": {
+			"KOD": 9357
+		},
+		"BAYRAMÖREN": {
+			"KOD": 9358
+		},
+		"ÇANKIRI": {
+			"KOD": 9359
+		},
+		"CERKEŞ": {
+			"KOD": 9360
+		},
+		"ILGAZ": {
+			"KOD": 9361
+		},
+		"KIZILIRMAK": {
+			"KOD": 9362
+		},
+		"KURŞUNLU": {
+			"KOD": 9363
+		},
+		"ORTA": {
+			"KOD": 9364
+		},
+		"ŞABANÖZÜ": {
+			"KOD": 9365
+		},
+		"YAPRAKLI": {
+			"KOD": 9366
+		}
+	},
+	"ÇORUM": {
+
+		"ALACA": {
+			"KOD": 9367
+		},
+		"BAYAT": {
+			"KOD": 9368
+		},
+		"BOĞAZKALE": {
+			"KOD": 9369
+		},
+		"ÇORUM": {
+			"KOD": 9370
+		},
+		"DODURGA": {
+			"KOD": 9371
+		},
+		"İSKİLİP": {
+			"KOD": 9372
+		},
+		"KARGI": {
+			"KOD": 9373
+		},
+		"LAÇİN": {
+			"KOD": 9374
+		},
+		"MECİTÖZÜ": {
+			"KOD": 9375
+		},
+		"OĞUZLAR": {
+			"KOD": 9376
+		},
+		"ORTAKÖY": {
+			"KOD": 9377
+		},
+		"OSMANCIK": {
+			"KOD": 9378
+		},
+		"SUNGURLU": {
+			"KOD": 9379
+		},
+		"UĞURLUDAĞ": {
+			"KOD": 9380
+		}
+	},
+	"DENİZLİ": {
+
+		"ACIPAYAM": {
+			"KOD": 9381
+		},
+		"AKKÖY": {
+			"KOD": 17898
+		},
+		"BABADAĞ": {
+			"KOD": 9382
+		},
+		"BAKLAN": {
+			"KOD": 9383
+		},
+		"BEKİLLİ": {
+			"KOD": 9384
+		},
+		"BEYAĞAÇ": {
+			"KOD": 9385
+		},
+		"BOZKURT": {
+			"KOD": 9386
+		},
+		"BULDAN": {
+			"KOD": 9387
+		},
+		"ÇAL": {
+			"KOD": 9388
+		},
+		"ÇAMELİ": {
+			"KOD": 9389
+		},
+		"ÇARDAK": {
+			"KOD": 9390
+		},
+		"ÇİVRİL": {
+			"KOD": 9391
+		},
+		"DENİZLİ": {
+			"KOD": 9392
+		},
+		"HONAZ": {
+			"KOD": 9393
+		},
+		"KALE": {
+			"KOD": 9394
+		},
+		"KALE2": {
+			"KOD": 17899
+		},
+		"SARAYKÖY": {
+			"KOD": 9395
+		},
+		"SERİNHİSAR": {
+			"KOD": 9396
+		},
+		"TAVAS": {
+			"KOD": 17900
+		}
+	},
+	"DİYARBAKIR": {
+
+		"BİSMİL": {
+			"KOD": 9397
+		},
+		"ÇERMİK": {
+			"KOD": 9398
+		},
+		"ÇINAR": {
+			"KOD": 9399
+		},
+		"ÇÜNGÜŞ": {
+			"KOD": 9400
+		},
+		"DİCLE": {
+			"KOD": 9401
+		},
+		"DİYARBAKIR": {
+			"KOD": 9402
+		},
+		"EĞİL": {
+			"KOD": 9403
+		},
+		"ERGANİ": {
+			"KOD": 9404
+		},
+		"HANİ": {
+			"KOD": 9405
+		},
+		"HAZRO": {
+			"KOD": 9406
+		},
+		"KOCAKÖY": {
+			"KOD": 9407
+		},
+		"KULP": {
+			"KOD": 9408
+		},
+		"LİCE": {
+			"KOD": 9409
+		},
+		"SİLVAN": {
+			"KOD": 9410
+		}
+	},
+	"DÜZCE": {
+
+		"AKÇAKOCA": {
+			"KOD": 9411
+		},
+		"ÇİLİMLİ": {
+			"KOD": 9412
+		},
+		"CUMAYERİ": {
+			"KOD": 9413
+		},
+		"DÜZCE": {
+			"KOD": 9414
+		},
+		"GÖLYAKA": {
+			"KOD": 9415
+		},
+		"GÜMÜŞOVA": {
+			"KOD": 9416
+		},
+		"KAYNAŞLI": {
+			"KOD": 9417
+		},
+		"YIĞILCA": {
+			"KOD": 9418
+		}
+	},
+	"EDİRNE": {
+
+		"EDİRNE": {
+			"KOD": 9419
+		},
+		"ENEZ": {
+			"KOD": 9420
+		},
+		"HAVSA": {
+			"KOD": 9421
+		},
+		"İPSALA": {
+			"KOD": 9422
+		},
+		"KEŞAN": {
+			"KOD": 9423
+		},
+		"LALAPAŞA": {
+			"KOD": 9424
+		},
+		"MERİÇ": {
+			"KOD": 9425
+		},
+		"SÜLOĞLU": {
+			"KOD": 9426
+		},
+		"UZUNKÖPRÜ": {
+			"KOD": 9427
+		}
+	},
+	"ELAZIĞ": {
+
+		"AĞIN": {
+			"KOD": 9428
+		},
+		"ALACAKAYA": {
+			"KOD": 9429
+		},
+		"ARICAK": {
+			"KOD": 9430
+		},
+		"BASKİL": {
+			"KOD": 9431
+		},
+		"ELAZIĞ": {
+			"KOD": 9432
+		},
+		"KARAKOÇAN": {
+			"KOD": 9433
+		},
+		"KEBAN": {
+			"KOD": 9434
+		},
+		"KOVANCILAR": {
+			"KOD": 9435
+		},
+		"MADEN": {
+			"KOD": 9436
+		},
+		"PALU": {
+			"KOD": 9437
+		},
+		"SİVRİCE": {
+			"KOD": 9438
+		}
+	},
+	"ERZİNCAN": {
+
+		"ÇAYIRLI": {
+			"KOD": 9439
+		},
+		"ERZİNCAN": {
+			"KOD": 9440
+		},
+		"İLİÇ": {
+			"KOD": 9441
+		},
+		"KEMAH": {
+			"KOD": 9442
+		},
+		"KEMALİYE": {
+			"KOD": 9443
+		},
+		"OTLUKBELİ": {
+			"KOD": 9444
+		},
+		"REFAHİYE": {
+			"KOD": 9445
+		},
+		"TERCAN": {
+			"KOD": 9446
+		},
+		"ÜZÜMLÜ": {
+			"KOD": 9447
+		}
+	},
+	"ERZURUM": {
+
+		"AŞKALE": {
+			"KOD": 9448
+		},
+		"AZİZİYE": {
+			"KOD": 9449
+		},
+		"ÇAT": {
+			"KOD": 9450
+		},
+		"ERZURUM": {
+			"KOD": 9451
+		},
+		"HINIS": {
+			"KOD": 9452
+		},
+		"HORASAN": {
+			"KOD": 9453
+		},
+		"İSPİR": {
+			"KOD": 9454
+		},
+		"KARAÇOBAN": {
+			"KOD": 9455
+		},
+		"KARAYAZI": {
+			"KOD": 9456
+		},
+		"KÖPRÜKÖY": {
+			"KOD": 9457
+		},
+		"NARMAN": {
+			"KOD": 9458
+		},
+		"OLTU": {
+			"KOD": 9459
+		},
+		"OLUR": {
+			"KOD": 9460
+		},
+		"PASİNLER": {
+			"KOD": 9461
+		},
+		"PAZARYOLU": {
+			"KOD": 9462
+		},
+		"ŞENKAYA": {
+			"KOD": 9463
+		},
+		"TEKMAN": {
+			"KOD": 9464
+		},
+		"TORTUM": {
+			"KOD": 9465
+		},
+		"UZUNDERE": {
+			"KOD": 9466
+		}
+	},
+	"ESKİŞEHİR": {
+
+		"ALPU": {
+			"KOD": 9467
+		},
+		"BEYLİKOVA": {
+			"KOD": 9468
+		},
+		"ÇİFTELER": {
+			"KOD": 9469
+		},
+		"ESKİŞEHİR": {
+			"KOD": 9470
+		},
+		"GÜNYÜZÜ": {
+			"KOD": 9471
+		},
+		"HAN": {
+			"KOD": 9472
+		},
+		"İNÖNÜ": {
+			"KOD": 9473
+		},
+		"MAHMUDİYE": {
+			"KOD": 9474
+		},
+		"MİHALIÇÇIK": {
+			"KOD": 9475
+		},
+		"SARICAKAYA": {
+			"KOD": 17919
+		},
+		"SEYİTGAZİ": {
+			"KOD": 9476
+		},
+		"SİVRİHİSAR": {
+			"KOD": 9477
+		}
+	},
+	"GAZİANTEP": {
+
+		"ARABAN": {
+			"KOD": 9478
+		},
+		"GAZİANTEP": {
+			"KOD": 9479
+		},
+		"İSLAHİYE": {
+			"KOD": 9480
+		},
+		"KARKAMIŞ": {
+			"KOD": 9481
+		},
+		"NİZİP": {
+			"KOD": 9482
+		},
+		"NURDAĞI": {
+			"KOD": 9483
+		},
+		"OĞUZELİ": {
+			"KOD": 9484
+		},
+		"YAVUZELİ": {
+			"KOD": 9485
+		}
+	},
+	"GİRESUN": {
+
+		"ALUCRA": {
+			"KOD": 9486
+		},
+		"BULANCAK": {
+			"KOD": 9487
+		},
+		"ÇAMOLUK": {
+			"KOD": 9488
+		},
+		"ÇANAKÇI": {
+			"KOD": 9489
+		},
+		"DERELİ": {
+			"KOD": 9490
+		},
+		"DOĞANKENT": {
+			"KOD": 9491
+		},
+		"ESPİYE": {
+			"KOD": 9492
+		},
+		"EYNESİL": {
+			"KOD": 9493
+		},
+		"GİRESUN": {
+			"KOD": 9494
+		},
+		"GÖRELE": {
+			"KOD": 9495
+		},
+		"GÜCE": {
+			"KOD": 9496
+		},
+		"KEŞAP": {
+			"KOD": 9497
+		},
+		"PİRAZİZ": {
+			"KOD": 9498
+		},
+		"ŞEBİNKARAHİSAR": {
+			"KOD": 16706
+		},
+		"TİREBOLU": {
+			"KOD": 9499
+		},
+		"YAĞLIDERE": {
+			"KOD": 9500
+		}
+	},
+	"GÜMÜŞHANE": {
+
+		"GÜMÜŞHANE": {
+			"KOD": 9501
+		},
+		"KELKİT": {
+			"KOD": 16746
+		},
+		"KÖSE": {
+			"KOD": 9502
+		},
+		"KÜRTÜN": {
+			"KOD": 9503
+		},
+		"ŞİRAN": {
+			"KOD": 9504
+		},
+		"TORUL": {
+			"KOD": 9505
+		}
+	},
+	"HAKKARİ": {
+
+		"ÇUKURCA": {
+			"KOD": 9506
+		},
+		"HAKKARİ": {
+			"KOD": 9507
+		},
+		"ŞEMDİNLİ": {
+			"KOD": 9508
+		},
+		"YÜKSEKOVA": {
+			"KOD": 9509
+		}
+	},
+	"HATAY": {
+
+		"ALTINÖZÜ": {
+			"KOD": 9510
+		},
+		"BELEN": {
+			"KOD": 9511
+		},
+		"DÖRTYOL": {
+			"KOD": 9512
+		},
+		"ERZİN": {
+			"KOD": 9513
+		},
+		"HASSA": {
+			"KOD": 9514
+		},
+		"HATAY": {
+			"KOD": 9515
+		},
+		"İSKENDERUN": {
+			"KOD": 9516
+		},
+		"KIRIKHAN": {
+			"KOD": 9517
+		},
+		"KUMLU": {
+			"KOD": 9518
+		},
+		"PAYAS": {
+			"KOD": 17810
+		},
+		"REYHANLI": {
+			"KOD": 9519
+		},
+		"SAMANDAĞ": {
+			"KOD": 9520
+		},
+		"YAYLADAĞ": {
+			"KOD": 16730
+		}
+	},
+	"IĞDIR": {
+
+		"ARALIK": {
+			"KOD": 9521
+		},
+		"IĞDIR": {
+			"KOD": 9522
+		},
+		"KARAKOYUNLU": {
+			"KOD": 9523
+		},
+		"TUZLUCA": {
+			"KOD": 9524
+		}
+	},
+	"ISPARTA": {
+
+		"AKSU (I)": {
+			"KOD": 9525
+		},
+		"ATABEY": {
+			"KOD": 17891
+		},
+		"EĞİRDİR": {
+			"KOD": 9526
+		},
+		"GELENDOST": {
+			"KOD": 9527
+		},
+		"GÖNEN": {
+			"KOD": 17892
+		},
+		"ISPARTA": {
+			"KOD": 9528
+		},
+		"KEÇİBORLU": {
+			"KOD": 9529
+		},
+		"ŞARKİ KARAAĞAÇ": {
+			"KOD": 9530
+		},
+		"SENİRKENT": {
+			"KOD": 17816
+		},
+		"SÜTCÜLER": {
+			"KOD": 9531
+		},
+		"ULUBORLU": {
+			"KOD": 9532
+		},
+		"YALVAÇ": {
+			"KOD": 9533
+		},
+		"YENİSAR BADEMLİ": {
+			"KOD": 9534
+		}
+	},
+	"İSTANBUL": {
+
+		"ARNAVUTKOY": {
+			"KOD": 9535
+		},
+		"AVCILAR": {
+			"KOD": 17865
+		},
+		"BAŞAKŞEHİR": {
+			"KOD": 17866
+		},
+		"BEYLİKDÜZÜ": {
+			"KOD": 9536
+		},
+		"BÜYÜKÇEKMECE": {
+			"KOD": 9537
+		},
+		"ÇATALCA": {
+			"KOD": 9538
+		},
+		"ÇEKMEKÖY": {
+			"KOD": 9539
+		},
+		"ESENYURT": {
+			"KOD": 9540
+		},
+		"İSTANBUL": {
+			"KOD": 9541
+		},
+		"KARTAL": {
+			"KOD": 9542
+		},
+		"KÜÇÜKÇEKMECE": {
+			"KOD": 9543
+		},
+		"MALTEPE": {
+			"KOD": 9544
+		},
+		"PENDİK": {
+			"KOD": 9545
+		},
+		"SANCAKTEPE": {
+			"KOD": 9546
+		},
+		"ŞİLE": {
+			"KOD": 9547
+		},
+		"SİLİVRİ": {
+			"KOD": 9548
+		},
+		"SULTANBEYLİ": {
+			"KOD": 9549
+		},
+		"SULTANGAZİ": {
+			"KOD": 9550
+		},
+		"TUZLA": {
+			"KOD": 9551
+		}
+	},
+	"İZMİR": {
+
+		"ALİAĞA": {
+			"KOD": 9552
+		},
+		"BAYINDIR": {
+			"KOD": 9553
+		},
+		"BERGAMA": {
+			"KOD": 9554
+		},
+		"BEYDAĞ": {
+			"KOD": 9555
+		},
+		"CEŞME": {
+			"KOD": 9556
+		},
+		"DİKİLİ": {
+			"KOD": 9557
+		},
+		"FOÇA": {
+			"KOD": 9558
+		},
+		"GÜZELBAHÇE": {
+			"KOD": 9559
+		},
+		"İZMİR": {
+			"KOD": 9560
+		},
+		"KARABURUN": {
+			"KOD": 9561
+		},
+		"KEMALPAŞA": {
+			"KOD": 9562
+		},
+		"KINIK": {
+			"KOD": 9563
+		},
+		"KİRAZ": {
+			"KOD": 9564
+		},
+		"MENDERES": {
+			"KOD": 17868
+		},
+		"MENEMEN": {
+			"KOD": 17869
+		},
+		"ÖDEMİŞ": {
+			"KOD": 9565
+		},
+		"SEFERIHİSAR": {
+			"KOD": 9566
+		},
+		"SELÇUK": {
+			"KOD": 9567
+		},
+		"TİRE": {
+			"KOD": 9568
+		},
+		"TORBALI": {
+			"KOD": 9569
+		},
+		"URLA": {
+			"KOD": 9570
+		}
+	},
+	"KAHRAMANMARAŞ": {
+
+		"AFŞİN": {
+			"KOD": 9571
+		},
+		"ANDIRIN": {
+			"KOD": 9572
+		},
+		"ÇAĞLAYANCERİT": {
+			"KOD": 9573
+		},
+		"EKİNÖZÜ": {
+			"KOD": 9574
+		},
+		"ELBİSTAN": {
+			"KOD": 9575
+		},
+		"GÖKSUN": {
+			"KOD": 9576
+		},
+		"KAHRAMANMARAŞ": {
+			"KOD": 9577
+		},
+		"NURHAK": {
+			"KOD": 9578
+		},
+		"PAZARCIK": {
+			"KOD": 9579
+		},
+		"TÜRKOĞLU": {
+			"KOD": 17908
+		}
+	},
+	"KARABÜK": {
+
+		"EFLANİ": {
+			"KOD": 9580
+		},
+		"ESKİPAZAR": {
+			"KOD": 17890
+		},
+		"KARABÜK": {
+			"KOD": 9581
+		},
+		"OVACIK (K)": {
+			"KOD": 9582
+		},
+		"YENİCE (K)": {
+			"KOD": 9583
+		}
+	},
+	"KARAMAN": {
+
+		"AYRANCI": {
+			"KOD": 9584
+		},
+		"BAŞYAYLA": {
+			"KOD": 9585
+		},
+		"ERMENEK": {
+			"KOD": 9586
+		},
+		"KARAMAN": {
+			"KOD": 9587
+		},
+		"KAZIMKARABEKİR": {
+			"KOD": 9588
+		},
+		"SARIVELİLER": {
+			"KOD": 9589
+		}
+	},
+	"KARS": {
+
+		"AKYAKA": {
+			"KOD": 9590
+		},
+		"ARPAÇAY": {
+			"KOD": 9591
+		},
+		"DİGOR": {
+			"KOD": 9592
+		},
+		"KAĞIZMAN": {
+			"KOD": 9593
+		},
+		"KARS": {
+			"KOD": 9594
+		},
+		"SARIKAMIŞ": {
+			"KOD": 9595
+		},
+		"SELİM": {
+			"KOD": 9596
+		},
+		"SUSUZ": {
+			"KOD": 17880
+		}
+	},
+	"KASTAMONU": {
+
+		"ABANA": {
+			"KOD": 9597
+		},
+		"AĞLI": {
+			"KOD": 9598
+		},
+		"ARAÇ": {
+			"KOD": 9599
+		},
+		"AZDAVAY": {
+			"KOD": 9600
+		},
+		"BOZKURT (K)": {
+			"KOD": 9601
+		},
+		"ÇATALZEYTİN": {
+			"KOD": 9602
+		},
+		"CİDE": {
+			"KOD": 9603
+		},
+		"DADAY": {
+			"KOD": 9604
+		},
+		"DEVREKANİ": {
+			"KOD": 17885
+		},
+		"DOĞANYURT": {
+			"KOD": 9605
+		},
+		"HANÖNÜ": {
+			"KOD": 9606
+		},
+		"İHSANGAZİ": {
+			"KOD": 9607
+		},
+		"İNEBOLU": {
+			"KOD": 9608
+		},
+		"KASTAMONU": {
+			"KOD": 9609
+		},
+		"KÜRE": {
+			"KOD": 9610
+		},
+		"PINARBAŞI (K)": {
+			"KOD": 9611
+		},
+		"ŞENPAZAR": {
+			"KOD": 9612
+		},
+		"SEYDİLER": {
+			"KOD": 17886
+		},
+		"TAŞKÖPRÜ": {
+			"KOD": 9613
+		},
+		"TOSYA": {
+			"KOD": 9614
+		}
+	},
+	"KAYSERİ": {
+
+		"AKKIŞLA": {
+			"KOD": 9615
+		},
+		"BÜNYAN": {
+			"KOD": 9616
+		},
+		"DEVELİ": {
+			"KOD": 9617
+		},
+		"FELAHİYE": {
+			"KOD": 9618
+		},
+		"İNCESU": {
+			"KOD": 9619
+		},
+		"KAYSERİ": {
+			"KOD": 9620
+		},
+		"ÖZVATAN": {
+			"KOD": 9621
+		},
+		"PINARBAŞI": {
+			"KOD": 9622
+		},
+		"SARIOĞLAN": {
+			"KOD": 9623
+		},
+		"SARIZ": {
+			"KOD": 9624
+		},
+		"TOMARZA": {
+			"KOD": 9625
+		},
+		"YAHYALI": {
+			"KOD": 9626
+		},
+		"YEŞİLHİSAR": {
+			"KOD": 9627
+		}
+	},
+	"KİLİS": {
+
+		"ELBEYLİ": {
+			"KOD": 9628
+		},
+		"KİLİS": {
+			"KOD": 9629
+		},
+		"MUSABEYLİ": {
+			"KOD": 9630
+		},
+		"POLATELİ": {
+			"KOD": 17907
+		}
+	},
+	"KIRIKKALE": {
+
+		"BALISEYH": {
+			"KOD": 9631
+		},
+		"CELEBI": {
+			"KOD": 9632
+		},
+		"DELICE": {
+			"KOD": 9633
+		},
+		"KARAKECILI": {
+			"KOD": 9634
+		},
+		"KESKİN": {
+			"KOD": 17897
+		},
+		"KIRIKKALE": {
+			"KOD": 9635
+		},
+		"SULAKYURT": {
+			"KOD": 9636
+		}
+	},
+	"KIRKLARELİ": {
+
+		"BABAESKİ": {
+			"KOD": 17903
+		},
+		"DEMIRKOY": {
+			"KOD": 9637
+		},
+		"KIRKLARELİ": {
+			"KOD": 9638
+		},
+		"LULEBURGAZ": {
+			"KOD": 9639
+		},
+		"PEHLIVANKOY": {
+			"KOD": 9640
+		},
+		"PINARHISAR": {
+			"KOD": 9641
+		},
+		"VIZE": {
+			"KOD": 9642
+		}
+	},
+	"KIRŞEHİR": {
+
+		"AKPINAR": {
+			"KOD": 9643
+		},
+		"CICEKDAGI": {
+			"KOD": 9644
+		},
+		"KAMAN": {
+			"KOD": 9645
+		},
+		"KIRŞEHİR": {
+			"KOD": 9646
+		},
+		"MUCUR": {
+			"KOD": 9647
+		}
+	},
+	"KOCAELİ": {
+
+		"ÇAYIROVA": {
+			"KOD": 9648
+		},
+		"DARICA": {
+			"KOD": 9649
+		},
+		"DİLOVASI": {
+			"KOD": 9650
+		},
+		"GEBZE": {
+			"KOD": 9651
+		},
+		"KANDIRA": {
+			"KOD": 9652
+		},
+		"KARAMÜRSEL": {
+			"KOD": 9653
+		},
+		"KARTEPE": {
+			"KOD": 17902
+		},
+		"KOCAELİ": {
+			"KOD": 9654
+		},
+		"KÖRFEZ": {
+			"KOD": 9655
+		}
+	},
+	"KONYA": {
+
+		"AHIRLI": {
+			"KOD": 9656
+		},
+		"AKÖREN": {
+			"KOD": 9657
+		},
+		"AKŞEHİR": {
+			"KOD": 9658
+		},
+		"ALTINEKİN": {
+			"KOD": 9659
+		},
+		"BEYŞEHİR": {
+			"KOD": 9660
+		},
+		"BOZKIR": {
+			"KOD": 9661
+		},
+		"ÇELTİK": {
+			"KOD": 9662
+		},
+		"CİHANBEYLİ": {
+			"KOD": 9663
+		},
+		"ÇUMRA": {
+			"KOD": 9664
+		},
+		"DERBENT": {
+			"KOD": 9665
+		},
+		"DEREBUCAK": {
+			"KOD": 9666
+		},
+		"DOĞANHİSAR": {
+			"KOD": 9667
+		},
+		"EMİRGAZİ": {
+			"KOD": 9668
+		},
+		"EREĞLİ": {
+			"KOD": 9669
+		},
+		"GÜNEYSINIR": {
+			"KOD": 9670
+		},
+		"HADİM": {
+			"KOD": 16704
+		},
+		"HALKAPINAR": {
+			"KOD": 9671
+		},
+		"HÜYÜK": {
+			"KOD": 9672
+		},
+		"ILGIN": {
+			"KOD": 9673
+		},
+		"KADINHANI": {
+			"KOD": 9674
+		},
+		"KARAPINAR": {
+			"KOD": 9675
+		},
+		"KARATAY": {
+			"KOD": 17872
+		},
+		"KONYA": {
+			"KOD": 9676
+		},
+		"KULU": {
+			"KOD": 9677
+		},
+		"MERAM": {
+			"KOD": 17870
+		},
+		"SARAYÖNÜ": {
+			"KOD": 17874
+		},
+		"SELÇUKLU": {
+			"KOD": 17871
+		},
+		"SEYDİŞEHİR": {
+			"KOD": 9678
+		},
+		"TAŞKENT": {
+			"KOD": 17873
+		},
+		"TUZLUKÇU": {
+			"KOD": 9679
+		},
+		"YALIHÜYÜK": {
+			"KOD": 9680
+		},
+		"YUNAK": {
+			"KOD": 9681
+		}
+	},
+	"KÜTAHYA": {
+
+		"ALTINTAŞ": {
+			"KOD": 9682
+		},
+		"ASLANAPA": {
+			"KOD": 9683
+		},
+		"ÇAVDARHİSAR": {
+			"KOD": 9684
+		},
+		"DOMANİÇ": {
+			"KOD": 9685
+		},
+		"DUMLUPINAR": {
+			"KOD": 17906
+		},
+		"EMET": {
+			"KOD": 9686
+		},
+		"GEDİZ": {
+			"KOD": 9687
+		},
+		"HİSARCIK": {
+			"KOD": 9688
+		},
+		"KÜTAHYA": {
+			"KOD": 9689
+		},
+		"PAZARLAR": {
+			"KOD": 9690
+		},
+		"ŞAPHANE": {
+			"KOD": 9691
+		},
+		"SİMAV": {
+			"KOD": 9692
+		},
+		"TAVŞANLI": {
+			"KOD": 9693
+		}
+	},
+	"MALATYA": {
+
+		"AKÇADAĞ": {
+			"KOD": 9694
+		},
+		"ARAPGİR": {
+			"KOD": 9695
+		},
+		"ARGUVAN": {
+			"KOD": 9696
+		},
+		"DARENDE": {
+			"KOD": 9697
+		},
+		"DOĞANŞEHİR": {
+			"KOD": 9698
+		},
+		"DOĞANYOL": {
+			"KOD": 9699
+		},
+		"HEKİMHAN": {
+			"KOD": 9700
+		},
+		"KALE (M)": {
+			"KOD": 9701
+		},
+		"KULUNCAK": {
+			"KOD": 9702
+		},
+		"MALATYA": {
+			"KOD": 9703
+		},
+		"PÜTÜRGE": {
+			"KOD": 9704
+		},
+		"YAZIHAN": {
+			"KOD": 9705
+		},
+		"YEŞİLYURT": {
+			"KOD": 9706
+		}
+	},
+	"MANİSA": {
+
+		"AHMETLİ": {
+			"KOD": 9707
+		},
+		"AKHİSAR": {
+			"KOD": 9708
+		},
+		"ALAŞEHİR": {
+			"KOD": 9709
+		},
+		"DEMİRCİ": {
+			"KOD": 9710
+		},
+		"GÖLMARMARA": {
+			"KOD": 9711
+		},
+		"GÖRDES": {
+			"KOD": 9712
+		},
+		"KIRKAĞAÇ": {
+			"KOD": 9713
+		},
+		"KÖPRÜBAŞI": {
+			"KOD": 9714
+		},
+		"KULA": {
+			"KOD": 9715
+		},
+		"MANİSA": {
+			"KOD": 9716
+		},
+		"SALİHLİ": {
+			"KOD": 9717
+		},
+		"SARIGÖL": {
+			"KOD": 9718
+		},
+		"SARUHANLI": {
+			"KOD": 9719
+		},
+		"SELENDİ": {
+			"KOD": 9720
+		},
+		"SOMA": {
+			"KOD": 9721
+		},
+		"TURGUTLU": {
+			"KOD": 9722
+		}
+	},
+	"MARDİN": {
+
+		"DARGECİT": {
+			"KOD": 9723
+		},
+		"DERİK": {
+			"KOD": 9724
+		},
+		"KIZILTEPE": {
+			"KOD": 9725
+		},
+		"MARDİN": {
+			"KOD": 9726
+		},
+		"MAZIDAĞI": {
+			"KOD": 9727
+		},
+		"MİDYAT": {
+			"KOD": 9728
+		},
+		"NUSAYBİN": {
+			"KOD": 9729
+		},
+		"ÖMERLİ": {
+			"KOD": 9730
+		},
+		"SAVUR": {
+			"KOD": 17901
+		}
+	},
+	"MERSİN": {
+
+		"ANAMUR": {
+			"KOD": 9731
+		},
+		"AYDINCIK": {
+			"KOD": 9732
+		},
+		"BOZYAZI": {
+			"KOD": 9733
+		},
+		"ÇAMLIYAYLA": {
+			"KOD": 9734
+		},
+		"ERDEMLİ": {
+			"KOD": 9735
+		},
+		"GÜLNAR": {
+			"KOD": 9736
+		},
+		"MERSİN": {
+			"KOD": 9737
+		},
+		"MUT": {
+			"KOD": 9738
+		},
+		"SİLİFKE": {
+			"KOD": 9739
+		},
+		"TARSUS": {
+			"KOD": 9740
+		}
+	},
+	"MUĞLA": {
+
+		"BODRUM": {
+			"KOD": 9741
+		},
+		"DALAMAN": {
+			"KOD": 9742
+		},
+		"DATÇA": {
+			"KOD": 9743
+		},
+		"FETHİYE": {
+			"KOD": 9744
+		},
+		"KÖYCEĞİZ": {
+			"KOD": 9745
+		},
+		"MARMARİS": {
+			"KOD": 17883
+		},
+		"MİLAS": {
+			"KOD": 9746
+		},
+		"MUĞLA": {
+			"KOD": 9747
+		},
+		"ORTACA": {
+			"KOD": 9748
+		},
+		"SEYDİKEMER": {
+			"KOD": 17884
+		},
+		"ULA": {
+			"KOD": 9749
+		},
+		"YATAĞAN": {
+			"KOD": 9750
+		}
+	},
+	"MUŞ": {
+
+		"BULANIK": {
+			"KOD": 9751
+		},
+		"HASKÖY": {
+			"KOD": 9752
+		},
+		"KORKUT": {
+			"KOD": 9753
+		},
+		"MALAZGİRT": {
+			"KOD": 9754
+		},
+		"MUŞ": {
+			"KOD": 9755
+		},
+		"VARTO": {
+			"KOD": 9756
+		}
+	},
+	"NEVŞEHİR": {
+
+		"ACIGÖL": {
+			"KOD": 9757
+		},
+		"AVANOS": {
+			"KOD": 17878
+		},
+		"HACIBEKTAŞ": {
+			"KOD": 9758
+		},
+		"KOZAKLI": {
+			"KOD": 9759
+		},
+		"NEVŞEHİR": {
+			"KOD": 9760
+		},
+		"ÜRGÜP": {
+			"KOD": 9761
+		}
+	},
+	"NİĞDE": {
+
+		"ALTUNHİSAR": {
+			"KOD": 9762
+		},
+		"BOR": {
+			"KOD": 9763
+		},
+		"ÇAMARDI": {
+			"KOD": 9764
+		},
+		"ÇİFTLİK": {
+			"KOD": 9765
+		},
+		"NİĞDE": {
+			"KOD": 9766
+		},
+		"ULUKIŞLA": {
+			"KOD": 9767
+		}
+	},
+	"ORDU": {
+
+		"AKKUŞ": {
+			"KOD": 9768
+		},
+		"AYBASTI": {
+			"KOD": 9769
+		},
+		"ÇAMAŞ": {
+			"KOD": 9770
+		},
+		"ÇATALPINAR": {
+			"KOD": 9771
+		},
+		"ÇAYBAŞI": {
+			"KOD": 9772
+		},
+		"FATSA": {
+			"KOD": 9773
+		},
+		"GÖLKÖY": {
+			"KOD": 9774
+		},
+		"GÜLYALI": {
+			"KOD": 9775
+		},
+		"GÜRGENTEPE": {
+			"KOD": 9776
+		},
+		"İKİZCE": {
+			"KOD": 9777
+		},
+		"KABATAŞ": {
+			"KOD": 9778
+		},
+		"KORGAN": {
+			"KOD": 9779
+		},
+		"KUMRU": {
+			"KOD": 9780
+		},
+		"MESUDİYE": {
+			"KOD": 9781
+		},
+		"ORDU": {
+			"KOD": 9782
+		},
+		"ÜNYE": {
+			"KOD": 9783
+		}
+	},
+	"OSMANİYE": {
+
+		"BAHÇE": {
+			"KOD": 9784
+		},
+		"DÜZİÇİ": {
+			"KOD": 9785
+		},
+		"HASANBEYLİ": {
+			"KOD": 9786
+		},
+		"KADİRLİ": {
+			"KOD": 9787
+		},
+		"OSMANİYE": {
+			"KOD": 9788
+		},
+		"SUMBAS": {
+			"KOD": 9789
+		},
+		"TOPRAKKALE": {
+			"KOD": 9790
+		}
+	},
+	"RİZE": {
+
+		"ARDEŞEN": {
+			"KOD": 9791
+		},
+		"ÇAMLIHEMŞİN": {
+			"KOD": 9792
+		},
+		"ÇAYELİ": {
+			"KOD": 9793
+		},
+		"FINDIKLI": {
+			"KOD": 9794
+		},
+		"HEMŞİN": {
+			"KOD": 9795
+		},
+		"İKİZDERE": {
+			"KOD": 9796
+		},
+		"İYİDERE": {
+			"KOD": 9797
+		},
+		"PAZAR": {
+			"KOD": 9798
+		},
+		"RİZE": {
+			"KOD": 9799
+		}
+	},
+	"SAKARYA": {
+
+		"AKYAZI": {
+			"KOD": 9800
+		},
+		"GEYVE": {
+			"KOD": 9801
+		},
+		"HENDEK": {
+			"KOD": 9802
+		},
+		"KARASU": {
+			"KOD": 9803
+		},
+		"KAYNARCA": {
+			"KOD": 9804
+		},
+		"KOCAALİ": {
+			"KOD": 9805
+		},
+		"PAMUKOVA": {
+			"KOD": 9806
+		},
+		"SAKARYA": {
+			"KOD": 9807
+		},
+		"TARAKLI": {
+			"KOD": 9808
+		}
+	},
+	"SAMSUN": {
+
+		"19 MAYIS": {
+			"KOD": 9809
+		},
+		"ALAÇAM": {
+			"KOD": 9810
+		},
+		"ASARCIK": {
+			"KOD": 9811
+		},
+		"ATAKUM": {
+			"KOD": 17911
+		},
+		"AYVACIK (S)": {
+			"KOD": 9812
+		},
+		"BAFRA": {
+			"KOD": 9813
+		},
+		"ÇARŞAMBA": {
+			"KOD": 9814
+		},
+		"HAVZA": {
+			"KOD": 9815
+		},
+		"KAVAK": {
+			"KOD": 9816
+		},
+		"LADİK": {
+			"KOD": 9817
+		},
+		"SALIPAZARI": {
+			"KOD": 9818
+		},
+		"SAMSUN": {
+			"KOD": 9819
+		},
+		"TEKKEKÖY": {
+			"KOD": 9820
+		},
+		"TERME": {
+			"KOD": 9821
+		},
+		"VEZİRKÖPRÜ": {
+			"KOD": 9822
+		},
+		"YAKAKENT": {
+			"KOD": 9823
+		}
+	},
+	"ŞANLIURFA": {
+
+		"AKÇAKALE": {
+			"KOD": 9824
+		},
+		"BİRECİK": {
+			"KOD": 9825
+		},
+		"BOZOVA": {
+			"KOD": 9826
+		},
+		"CEYLANPINAR": {
+			"KOD": 9827
+		},
+		"HALFETİ": {
+			"KOD": 9828
+		},
+		"HARRAN": {
+			"KOD": 9829
+		},
+		"HİLVAN": {
+			"KOD": 9830
+		},
+		"ŞANLIURFA": {
+			"KOD": 9831
+		},
+		"SİVEREK": {
+			"KOD": 9832
+		},
+		"SURUÇ": {
+			"KOD": 9833
+		},
+		"VİRANŞEHİR": {
+			"KOD": 9834
+		}
+	},
+	"SİİRT": {
+
+		"BAYKAN": {
+			"KOD": 9835
+		},
+		"ERUH": {
+			"KOD": 9836
+		},
+		"KURTALAN": {
+			"KOD": 9837
+		},
+		"PERVARİ": {
+			"KOD": 9838
+		},
+		"SİİRT": {
+			"KOD": 9839
+		},
+		"ŞIRVAN": {
+			"KOD": 17888
+		}
+	},
+	"SİNOP": {
+
+		"AYANCIK": {
+			"KOD": 9840
+		},
+		"BOYABAT": {
+			"KOD": 9841
+		},
+		"DİKMEN": {
+			"KOD": 9842
+		},
+		"DURAĞAN": {
+			"KOD": 9843
+		},
+		"ERFELEK": {
+			"KOD": 9844
+		},
+		"GERZE": {
+			"KOD": 9845
+		},
+		"SARAYDÜZÜ": {
+			"KOD": 9846
+		},
+		"SİNOP": {
+			"KOD": 9847
+		},
+		"TÜRKELİ": {
+			"KOD": 9848
+		}
+	},
+	"ŞIRNAK": {
+
+		"BEYTÜŞŞEBAP": {
+			"KOD": 9849
+		},
+		"CİZRE": {
+			"KOD": 9850
+		},
+		"GÜÇLÜKONAK": {
+			"KOD": 9851
+		},
+		"İDİL": {
+			"KOD": 9852
+		},
+		"SİLOPİ": {
+			"KOD": 9853
+		},
+		"ŞIRNAK": {
+			"KOD": 9854
+		},
+		"ULUDERE": {
+			"KOD": 9855
+		}
+	},
+	"SİVAS": {
+
+		"AKINCILAR": {
+			"KOD": 9856
+		},
+		"ALTINYAYLA(S)": {
+			"KOD": 9857
+		},
+		"DİVRİĞİ": {
+			"KOD": 9858
+		},
+		"DOĞANŞAR": {
+			"KOD": 9859
+		},
+		"GEMEREK": {
+			"KOD": 9860
+		},
+		"GÖLOVA": {
+			"KOD": 9861
+		},
+		"GÜRÜN": {
+			"KOD": 9862
+		},
+		"HAFİK": {
+			"KOD": 9863
+		},
+		"İMRANLI": {
+			"KOD": 9864
+		},
+		"KANGAL": {
+			"KOD": 9865
+		},
+		"KOYULHİSAR": {
+			"KOD": 9866
+		},
+		"ŞARKIŞLA": {
+			"KOD": 9867
+		},
+		"SİVAS": {
+			"KOD": 9868
+		},
+		"SUŞEHRİ": {
+			"KOD": 9869
+		},
+		"ULAŞ": {
+			"KOD": 17920
+		},
+		"YILDIZELİ": {
+			"KOD": 9870
+		},
+		"ZARA": {
+			"KOD": 9871
+		}
+	},
+	"TEKİRDAĞ": {
+
+		"ÇERKEZKÖY": {
+			"KOD": 9872
+		},
+		"ÇORLU": {
+			"KOD": 9873
+		},
+		"ERGENE": {
+			"KOD": 17904
+		},
+		"HAYRABOLU": {
+			"KOD": 9874
+		},
+		"KAPAKLI": {
+			"KOD": 17905
+		},
+		"M.EREĞLİSİ": {
+			"KOD": 9875
+		},
+		"MALKARA": {
+			"KOD": 9876
+		},
+		"SARAY": {
+			"KOD": 9877
+		},
+		"ŞARKÖY": {
+			"KOD": 9878
+		},
+		"TEKİRDAĞ": {
+			"KOD": 9879
+		}
+	},
+	"TOKAT": {
+
+		"ALMUS": {
+			"KOD": 9880
+		},
+		"ARTOVA": {
+			"KOD": 9881
+		},
+		"BAŞÇİFTLİK": {
+			"KOD": 9882
+		},
+		"ERBAA": {
+			"KOD": 17910
+		},
+		"NİKSAR": {
+			"KOD": 9883
+		},
+		"PAZAR (T)": {
+			"KOD": 9884
+		},
+		"REŞADİYE": {
+			"KOD": 9885
+		},
+		"SULUSARAY": {
+			"KOD": 9886
+		},
+		"TOKAT": {
+			"KOD": 9887
+		},
+		"TURHAL": {
+			"KOD": 9888
+		},
+		"YEŞİLYURT": {
+			"KOD": 9889
+		},
+		"ZİLE": {
+			"KOD": 9890
+		}
+	},
+	"TRABZON": {
+
+		"AKÇAABAT": {
+			"KOD": 9891
+		},
+		"ARAKLI": {
+			"KOD": 9892
+		},
+		"ARSİN": {
+			"KOD": 9893
+		},
+		"BEŞİKDÜZÜ": {
+			"KOD": 9894
+		},
+		"ÇARŞIBAŞI": {
+			"KOD": 9895
+		},
+		"ÇAYKARA": {
+			"KOD": 9896
+		},
+		"DERNEKPAZARI": {
+			"KOD": 9897
+		},
+		"DÜZKÖY": {
+			"KOD": 9898
+		},
+		"HAYRAT": {
+			"KOD": 9899
+		},
+		"KÖPRÜBAŞI (T)": {
+			"KOD": 9900
+		},
+		"OF": {
+			"KOD": 9901
+		},
+		"ŞALPAZARI": {
+			"KOD": 9902
+		},
+		"SÜRMENE": {
+			"KOD": 9903
+		},
+		"TONYA": {
+			"KOD": 9904
+		},
+		"TRABZON": {
+			"KOD": 9905
+		},
+		"VAKFIKEBİR": {
+			"KOD": 9906
+		},
+		"YOMRA": {
+			"KOD": 9907
+		}
+	},
+	"TUNCELİ": {
+
+		"ÇEMİŞGEZEK": {
+			"KOD": 9908
+		},
+		"HOZAT": {
+			"KOD": 9909
+		},
+		"NAZİMİYE": {
+			"KOD": 9910
+		},
+		"OVACIK": {
+			"KOD": 9911
+		},
+		"PERTEK": {
+			"KOD": 9912
+		},
+		"PÜLÜMÜR": {
+			"KOD": 9913
+		},
+		"TUNCELİ": {
+			"KOD": 9914
+		}
+	},
+	"UŞAK": {
+
+		"BANAZ": {
+			"KOD": 9915
+		},
+		"ESME": {
+			"KOD": 9916
+		},
+		"KARAHALLI": {
+			"KOD": 9917
+		},
+		"SİVASLI": {
+			"KOD": 9918
+		},
+		"ULUBEY": {
+			"KOD": 17909
+		},
+		"UŞAK": {
+			"KOD": 9919
+		}
+	},
+	"VAN": {
+
+		"BAHÇESARAY": {
+			"KOD": 9920
+		},
+		"BAŞKALE": {
+			"KOD": 9921
+		},
+		"ÇALDIRAN": {
+			"KOD": 9922
+		},
+		"ÇATAK": {
+			"KOD": 9923
+		},
+		"EDREMİT (V)": {
+			"KOD": 9924
+		},
+		"ERCİŞ": {
+			"KOD": 9925
+		},
+		"GEVAŞ": {
+			"KOD": 9926
+		},
+		"GÜRPINAR": {
+			"KOD": 17912
+		},
+		"MURADİYE": {
+			"KOD": 9927
+		},
+		"ÖZALP": {
+			"KOD": 9928
+		},
+		"SARAY (V)": {
+			"KOD": 9929
+		},
+		"VAN": {
+			"KOD": 9930
+		}
+	},
+	"YALOVA": {
+
+		"ALTINOVA": {
+			"KOD": 9931
+		},
+		"ARMUTLU": {
+			"KOD": 9932
+		},
+		"ÇINARCIK": {
+			"KOD": 9933
+		},
+		"TERMAL": {
+			"KOD": 9934
+		},
+		"YALOVA": {
+			"KOD": 9935
+		}
+	},
+	"YOZGAT": {
+
+		"AKDAĞMADENİ": {
+			"KOD": 9936
+		},
+		"AYDINCIK (Y)": {
+			"KOD": 9937
+		},
+		"BOĞAZLIYAN": {
+			"KOD": 9938
+		},
+		"ÇANDIR": {
+			"KOD": 9939
+		},
+		"ÇAYIRALAN": {
+			"KOD": 9940
+		},
+		"ÇEKEREK": {
+			"KOD": 9941
+		},
+		"KADIŞEHRİ": {
+			"KOD": 9942
+		},
+		"SARAYKENT": {
+			"KOD": 9943
+		},
+		"SARIKAYA": {
+			"KOD": 9944
+		},
+		"ŞEFAATLİ": {
+			"KOD": 17879
+		},
+		"SORGUN": {
+			"KOD": 9946
+		},
+		"YENİFAKILI": {
+			"KOD": 9947
+		},
+		"YERKÖY": {
+			"KOD": 9948
+		},
+		"YOZGAT": {
+			"KOD": 9949
+		}
+	},
+	"ZONGULDAK": {
+
+		"ALAPLI": {
+			"KOD": 9950
+		},
+		"ÇAYCUMA": {
+			"KOD": 9951
+		},
+		"DEVREK": {
+			"KOD": 9952
+		},
+		"GÖKÇEBEY": {
+			"KOD": 9953
+		},
+		"KARADENİZ EREĞLİ": {
+			"KOD": 9954
+		},
+		"ZONGULDAK": {
+			"KOD": 9955
+		}
+	}
+}
